@@ -1,8 +1,6 @@
 
 # Hi, I'm Chayakorn 👋
 
-I'm a software developer from Thailand, studying Information Systems at Mahidol University.
-
 I enjoy building real-world applications, solving technical problems, and improving software performance. My interests include full-stack development, AI, automation, and simulation systems.
 
 ### 🛠️ Tech Stack
