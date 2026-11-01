@@ -12,16 +12,17 @@ I enjoy building real-world applications, solving technical problems, and improv
 
 ### 🚀 Featured Projects
 
-#### 🛸 [DroneSimulate](https://github.com/ChayaNine/drone-simulate)
-**Web Development | Simulation | Performance**
+#### 🛸 [Drone Range](https://github.com/ChayaNine/drone-range)
+**TypeScript | React | Three.js | Simulation**
 
-A browser-based drone simulation platform with different environments and interactive flight controls.
+An open-source drone flight simulator built with TypeScript, React, and Three.js. It supports custom drones using JSON files.
 
 **Engineering highlights:**
-- Reused assets to reduce unnecessary loading.
-- Paused offscreen work to improve performance.
-- Optimized shadows and asset preloading.
-- Investigated and fixed freezing controls.
+- Built interactive 3D drone flight simulation.
+- Supported custom drone configurations using JSON.
+- Worked with React and Three.js to build the simulator.
+- Made the simulator available as an open-source project.
+
 
 **Live Website:** https://dronesimulate.com
 
